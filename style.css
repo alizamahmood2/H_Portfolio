@@ -1,0 +1,99 @@
+body{
+ margin: 6vh;
+  font-family: "Bodoni MT";
+  background: #f5f5f5;
+  background-size: 2000px;
+  margin-top: 7vh;
+  margin-bottom:7vh;
+  }
+
+  html {
+  scroll-behavior: smooth;
+}
+
+.sketch {
+   height: 100vh;
+
+}
+
+
+p {
+  margin-right: 17vw;
+  margin-left: 17vw;
+  font-size: 1.6vw;
+  line-height: 1.65;
+  color: #030D0A;
+}
+
+
+
+.italicd {
+  font-size: 1.6vw;
+}
+
+
+
+
+p b {
+  color: #014029;
+}
+
+.back {
+  color: #014029;
+ 
+}
+
+
+.back:hover {
+  color: #F20587;
+ 
+}
+
+
+.back.active {
+  color: #014029;
+ 
+}
+
+
+.back.visited {
+  color: #014029;
+ 
+}
+
+
+a {
+  color: #014029;
+  text-decoration: underline;
+  text-underline-position: under;
+}
+
+
+a:hover {
+  color: #F20587;
+  text-decoration: underline;
+  text-underline-position: under;
+}
+
+
+a.active {
+  color: #014029;
+  text-decoration: underline;
+  text-underline-position: under;
+}
+
+
+a.visited {
+  color: #014029;
+  text-decoration: underline;
+  text-underline-position: under;
+}
+
+
+
+::selection {
+    background: #F5EEE1;
+    color: #F20587;
+}
+
+
